@@ -1,0 +1,430 @@
+14:01:48ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:01:48ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:08:20ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:08:20ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:08:20ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:08:41ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:08:41ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:08:51ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:12:12ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:12:13ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:12:15ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:13:30ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:13:30ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:13:31ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:14:33ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:14:33ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:14:35ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:17:07ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:17:08ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:17:10ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:18:57ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:18:57ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:19:00ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:22:18ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:22:18ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:22:21ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:23:12ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:23:12ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:23:15ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:50:20ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:50:20ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:50:23ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:51:33ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:51:33ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:51:36ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+14:53:16ExecuteReader(QueryCommand):
+SELECT COUNT(*)
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:53:16ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+WHERE ([t0].[TaxaCName] = @p0)
+
+
+14:53:18ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:39:42ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:39:48ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:39:52ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:39:52ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:41:13ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:41:18ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:41:27ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:41:27ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:42:07ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:42:12ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:42:16ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:42:16ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:42:19ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:44:43ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:44:45ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:44:45ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:44:45ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:45:31ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:45:34ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:45:34ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:45:34ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:45:34ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:46:13ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:46:17ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:46:17ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:46:17ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:46:17ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:47:00ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:47:02ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:47:02ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:47:02ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:47:02ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:48:15ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:48:17ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:48:17ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:48:17ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:48:17ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:52:40ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:52:49ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:52:49ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:52:49ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:52:49ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
+15:52:49ExecuteReader(QueryCommand):
+SELECT [t0].[Id], [t0].[Parent_Id], [t0].[Rank_Id], [t0].[RefArticles], [t0].[TaxaCName], [t0].[TaxaLName], [t0].[TaxaPic]
+FROM [dbo].[Taxa] AS t0
+
+
